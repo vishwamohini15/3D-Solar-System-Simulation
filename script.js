@@ -35,7 +35,7 @@
         function init() {
             // Scene
             scene = new THREE.Scene();
-            // Set a dark background for the space effect
+            // Set ga dark background for the space effect
             scene.background = new THREE.Color(0x0a0a1a);
 
             // Camera (PerspectiveCamera: FOV, Aspect Ratio, Near, Far)
